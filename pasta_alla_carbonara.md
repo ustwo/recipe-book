@@ -45,3 +45,7 @@ Pasta all'amatriciana.
 ## Allergies and dietary requirements
 
 * Nut free
+
+## Acknowledgements
+
+Thanks [Gaku.](http://www.flickr.com/photos/95926172@N00/2731501672/) for the pic (used under license).
