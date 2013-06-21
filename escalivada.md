@@ -9,9 +9,11 @@ Escalivada is typical from Catalunya.
 ## Ingredients
 
 * 2 generous aubergines
-* 4/5 decent red peppers
+* 4/5 red peppers
 * 3/4 garlic cloves
-* Olive oil, vinegar and salt
+* Olive oil
+* vinegar
+* salt
 
 ## How to do it
 
@@ -29,7 +31,7 @@ Now, put on an apron to peel off everything because it gets messy. When done cut
 
 Thrown in the garlic and start seasoning little by little to your taste (but don't be shy with the olive oil and the vinegar), stirring with a fork.
 
-Done now, you can eat it warm as it is or cold from the fridge during the next 4/5 days.
+Done, now you can eat it as it is or cold from the fridge during the next 4/5 days.
 
 ## Tips and tricks
 
