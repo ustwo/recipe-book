@@ -40,7 +40,7 @@ Do NOT use cream. If you use cream in pasta alla carbonara you will die.
 
 ## Related
 
-Pasta all'amatriciana.
+[Pasta all'amatriciana](./pasta_alla_amatriciana.md).
 
 ## Allergies and dietary requirements
 
