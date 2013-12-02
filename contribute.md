@@ -27,6 +27,21 @@ As mentioned above, do not hot-link images from other websites, download them to
 
 Remember to add a mention in the acknowledgments section.
 
+### Anatomy of a recipe
+
+We are only offering these sections as a rule of thumb, feel free to skip some if they don't make sense for your recipe.
+
+For the title use a single "#" (it should be the only one in the document) and for the rest of the section headers use "##".
+
+* **Title**. Should be obvious!
+* **Intro**. What makes the recipe important for **you**, do you eat it hungover on Saturday mornings? Is there a nice restaurant where they nail it? Everyone loves a good story (they can skip it if they do not).
+* **Ingredients**. Add them one by one using a list. It's important to mention roughly how many servings they produce.
+* **How to do it**. Go step by step, the level of granularity is up to you.
+* **Tips and tricks**. Does it freeze well? If so, how do you defrost it? Anything special with the ingredients? Can hard to find ingredients be substituted by something else without affecting the end result too much?
+* **Related**. Other recipes that go along well? Can you spin off other recipes with the leftovers?
+* **Allergies and dietary requirements**. Vegeterian, vegan, nuts free, gluten free… Use a list, one entry per item.
+* **Acknowledgments**. Add links to the original author, to whoever took the picture you are using or simply pay compliments to your mum.
+
 ## Technical people
 
 If you are a developer just fork and send a pull request per recipe, you know the drill : )
@@ -73,6 +88,12 @@ Add a summary and an extendend description if you feel like it. For example:
 >
 > Extended description:
 
-Now press the Commit button, it should appear now below under ```Unsynced Commits```.
+So be a sport and add nice summary and description. Feeling creative? [Emojis](http://www.emoji-cheat-sheet.com/) to the recue. 
 
-Last step! Press the Sync button… et voila! You have published your first recipe.
+:warning: 
+
+Too many emojis make :crying_cat_face:
+
+So, almost there. You have selected your files, added a summary and a description of your changes, now press the Commit button. You commit (change) should appear now under ```Unsynced Commits```.
+
+Last step: press the Sync button… et voila! You have published your first recipe!
