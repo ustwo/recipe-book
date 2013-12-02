@@ -88,11 +88,11 @@ Add a summary and an extendend description if you feel like it. For example:
 >
 > Extended description:
 
-So be a sport and add nice summary and description. Feeling creative? [Emojis](http://www.emoji-cheat-sheet.com/) to the recue. 
+So be a sport and add nice summary and description. Feeling creative? [Emojis](http://www.emoji-cheat-sheet.com/) to the rescue. 
 
 :warning: 
 
-Too many emojis make :crying_cat_face:
+Too many emojis make developers :cry:
 
 So, almost there. You have selected your files, added a summary and a description of your changes, now press the Commit button. You commit (change) should appear now under ```Unsynced Commits```.
 
