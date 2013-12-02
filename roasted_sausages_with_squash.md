@@ -38,7 +38,7 @@ You can boil basmati rice, finely chop a couple of garlic cloves and sage and gi
 
 Dunno.
 
-## Alergies and dietary requirements
+## Allergies and dietary requirements
 
 * Gluten free (if you use gluten free sausages!)
 * Lactose free

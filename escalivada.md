@@ -43,7 +43,7 @@ Toast some bread and eat it with the escalivada on top. Add some manchego cheese
 
 Escalivada goes really well with Spanish tortilla de patata or on the side of a steak.
 
-## Alergies and dietary requirements
+## Allergies and dietary requirements
 
 * Gluten free
 * Lactose free

@@ -52,7 +52,7 @@ Lasts a good 4/5 days in the fridge.
 
 Salmorejo.
 
-## Alergies and dietary requirements
+## Allergies and dietary requirements
 
 * Nut free
 * Gluten free
